@@ -1,0 +1,2 @@
+# freefire-tournament
+Number pass
